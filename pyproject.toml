@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "aioboto3"
-version = "10.0.0"
+version = "11.3.0"
 description = "Async boto3 wrapper"
 authors = ["Terry Cain <terry@terrys-home.co.uk>"]
 license = "Apache-2.0"
